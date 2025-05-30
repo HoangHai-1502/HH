@@ -1,0 +1,53 @@
+body {
+    background-color: #add8e6;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  marquee {
+    background-color: #003366;
+    color: white;
+    padding: 10px;
+    font-weight: bold;
+  }
+  
+  .section {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+  }
+  
+  .section h2 {
+    color: #003366;
+  }
+  
+  ul {
+    margin-top: 10px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+  }
+  
+  th, td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  th {
+    background-color: #f0f0f0;
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  textarea {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    box-sizing: border-box;
+  }
+  
